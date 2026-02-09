@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 16px;
+}
+
+table tbody tr:hover {
+    transform: scale(1.01);
+    transition: .2s;
+}
+
+.badge-direction {
+    font-size: 0.8rem;
+}
